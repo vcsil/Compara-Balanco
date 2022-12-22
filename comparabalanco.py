@@ -109,7 +109,7 @@ for id_produto in balanco_antes["ID Produto"]:
 df_resultado = df_resultado.sort_values(by="Diferença")
 
 array_total = [
-    len(df_resultado),
+    str(len(df_resultado)) + " produtos",
     "-",
     df_resultado["Qnt. Antes"].sum(),
     df_resultado["Qnt. Depois"].sum(),
