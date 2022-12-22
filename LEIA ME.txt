@@ -1,0 +1,7 @@
+1 - Copie o arquivo "comparabalanco.py"
+
+2- Cole no diretóri que está a pasta "antes" e
+"depois" ambos com os respectivos saldos de estoque
+
+3- Clique duas vezes no arquivo "comparabalanco.py"
+e espere gerar o resultado
